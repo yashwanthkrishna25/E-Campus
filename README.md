@@ -37,6 +37,27 @@ E-Campus offers complete digitisation of university and college life across thre
 
 ---
 
+
+##  📱 App UI Preview
+
+
+<div align="center">
+<img src="./ScreenShort/1st.png " alt="Customer Mobile Login" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="./ScreenShort/2nd.png" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="./ScreenShort/3rd.png" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
+</div>
+&nbsp;
+
+&nbsp;
+<div align="center">
+<img src="./ScreenShort/4th.png" alt="Customer Mobile Login" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="./ScreenShort/5th.png" alt="Customer Mobile Map" width="30%"> &nbsp;&nbsp;&nbsp;
+<img src="./ScreenShort/8th.png" alt="Customer Mobile QR" width="30%"> &nbsp;&nbsp; 
+</div>
+
+---
+
+
 ## 🛠️ Tech Stack & Architecture
 
 *   **Framework:** Flutter (Latest Stable)
